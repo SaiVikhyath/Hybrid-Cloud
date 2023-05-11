@@ -1,4 +1,4 @@
-# Cloud_project_2 - Hybrid Cloud
+# Cloud Project 3 - Hybrid Cloud
 This project is a part of course work CSE 546: Cloud Computing.
 Professor - Yuli Deng.
 
