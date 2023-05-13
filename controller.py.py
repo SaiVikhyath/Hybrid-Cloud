@@ -3,8 +3,8 @@ import json
 import csv
 
 config ={
-    'AWS_ACCESS_KEY_ID': 'AKIAZFM3KGDWAVOEDUOU', 
-    'AWS_SECRET_ACCESS_KEY': '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' 
+    'AWS_ACCESS_KEY_ID': '***********', 
+    'AWS_SECRET_ACCESS_KEY': '**************' 
 }
 session = boto3.Session(
     region_name="us-east-1",
